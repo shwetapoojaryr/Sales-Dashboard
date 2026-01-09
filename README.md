@@ -1,3 +1,4 @@
+<!--
 # Sales-Dashboard
 
 
@@ -13,7 +14,6 @@ problem statement
 datasets
 tools and technologies
 
-<!--
 Methods
 key insights
 dashboards/model/output
